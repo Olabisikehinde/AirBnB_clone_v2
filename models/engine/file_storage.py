@@ -2,6 +2,7 @@
 import json
 import os
 
+
 class FileStorage:
     """ The FileStorage class for serialization and deserialization
 
