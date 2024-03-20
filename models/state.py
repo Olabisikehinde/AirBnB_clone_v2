@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> df9672565a70ee496982abbbc11282820c5ff266
 #!/usr/bin/python3
 """This is the state class"""
 from sqlalchemy.ext.declarative import declarative_base

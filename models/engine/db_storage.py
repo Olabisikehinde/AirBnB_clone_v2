@@ -55,6 +55,7 @@ class DBStorage:
         return (dic)
 
     def new(self, obj):
+<<<<<<< HEAD
 
  #!/usr/bin/python3
 """ new class for sqlAlchemy """
@@ -113,6 +114,8 @@ class DBStorage:
         return (dic)
 
     def new(self, obj):
+=======
+>>>>>>> df9672565a70ee496982abbbc11282820c5ff266
         """add a new element in the table
         """
         self.__session.add(obj)
